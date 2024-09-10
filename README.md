@@ -4,7 +4,8 @@ Este repositório contém um notebook Jupyter que realiza uma análise detalhada
 
 Conteúdo:
 
-**autismo_analysis.ipynb:** O notebook principal que contém a análise dos dados. 
+**autismo_analysis.ipynb:** O notebook principal que contém a análise dos dados.
+
 **Autism Screening.csv:** Arquivo csv com os dados.
 
 Este notebook inclui:
