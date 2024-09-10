@@ -1,9 +1,11 @@
 # Análise de Dados sobre Autismo
 
 Este repositório contém um notebook Jupyter que realiza uma análise detalhada de dados relacionados ao diagnóstico de Transtorno do Espectro Autista (TEA) usando um conjunto de dados fornecido. O objetivo do projeto é explorar e visualizar os dados, investigar possíveis correlações e preparar o terreno para futuros modelos preditivos.
-Conteúdo
+
+Conteúdo:
 
 **autismo_analysis.ipynb:** O notebook principal que contém a análise dos dados. 
+**Autism Screening.csv:** Arquivo csv com os dados.
 
 Este notebook inclui:
 
@@ -17,4 +19,3 @@ Este notebook inclui:
 
 O conjunto de dados utilizado neste projeto inclui informações sobre pacientes, suas pontuações em testes de triagem de autismo, idade, gênero, etnia, e outros fatores relevantes.
 
-Ele estará disponível na pasta \data
